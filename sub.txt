@@ -1,5 +1,5 @@
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@00-join.outline-vpn.cloud:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#config+1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTFZWRnh4SEpTQk1kR2Rs@series-a2-me.samanehha.co:443#config+2
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.64.80.150:443?path=Path%2FTelegram%40proxy_mtm%2F%3Fed%3D2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#config+2
 vless://d3a12e79-ef42-4268-b367-42eeb3494e60@172.66.44.197:443?path=%3Fed%3D2048&security=tls&encryption=none&host=Hagh.PaGes.DEv&type=ws&sni=Hagh.PaGes.DEv#config+3
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@162.159.135.79:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#config+4
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@162.159.135.79:443?path=Path%2FTelegram+FreakConfig+%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=test38.pages.dev&fp=chrome&type=ws&sni=test38.pages.dev#config+5
@@ -7,4 +7,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha
 vless://5d8569a9-a8cb-4c5e-9ea9-cc40de873a35@104.31.16.65:443?path=TELEGRAM....PROXY_MTM%3Fed%3D2048&security=tls&encryption=none&host=FIltEr-1tg.pagEs.DeV&type=ws&sni=filTer-1tg.pAges.DeV#config+7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTFZWRnh4SEpTQk1kR2Rs@series-a2-me.samanehha.co:443#config+8
 vless://d3a12e79-ef42-4268-b367-42eeb3494e60@visa.com:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=Hagh.PaGes.DEv&type=ws&sni=Hagh.PaGes.DEv#config+9
-vless://87e9bacf-df09-4bae-8d76-efe5639d1df5@63.141.128.17:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=firefox&type=grpc&serviceName=438cb427&sni=classify11.appclouddeveloper.com#config+10
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@00-join.outline-vpn.cloud:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#config+10
