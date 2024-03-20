@@ -1,10 +1,10 @@
-vless://8721355e-96d5-4bb9-a99b-b6119d6b1cd4@Www.ZULA.iR:8443?path=Path%2F%40V2rayi_net+-+Telegram+%3A+%40V2rayi_net+-+Telegram+%3A+%40V2rayi_net+-+Telegram+%3A+%40V2rayi_net+-+Telegram+%3A+%40V2rayi_net+-+Telegram+%3A+%40V2rayi_net+-+Telegram+%3A+%40V2rayi_net+-+Telegram+%3A+%40V2rayi_net+-+Telegram+%3A+%40V2rayi_net+-+Telegram+%3A+%40V2rayi_net+-+Telegram+%3A+%40V2rayi_net+-+Telegram+%3A+%40V2rayi_net+-+Telegram+%3A+%40V2rayi_net+-+Telegram+%3A+%40V2rayi_net+-+Telegram+%3A+%40V2rayi_net%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=uD2kp0fx53e15EHUFNo2LJ7mHRsDgTYET8xzmA7tXh40tR606ogTx280VN.PaGEs.dEv&fp=chrome&type=ws&sni=uD2kp0fx53e15EHUFNo2LJ7mHRsDgTYET8xzmA7tXh40tR606ogTx280VN.PaGEs.dEv#config+1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZVg2eFNsWWkwZDl3aFFvQ2VnUjRUVzR4NGNzZnYzckhmQzR0N2I2VTVRPQ==@3.75.233.20:2087#config+2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjbkZ3aEhYSUJEY2dqQS95ai9lbHIrQ3lrK2NBS3dZa0daL3VJeWlKUmRrPQ==@3.123.229.35:2087#config+3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaQk12OE1FKzZOeW9GTmwxL2FpZURjcEtiNHNUYVdwTGFvcGFKM0lsS240PQ==@3.127.145.66:2087#config+4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTovMXY2ZENIM0o1ek4zOGVha3UrSHY3dkdtN0pQa0YrNktzRlMwYW9sYmhjPQ==@3.79.42.41:2087#config+5
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@00-join.outline-vpn.cloud:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#config+1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTFZWRnh4SEpTQk1kR2Rs@series-a2-me.samanehha.co:443#config+2
+vless://d3a12e79-ef42-4268-b367-42eeb3494e60@172.66.44.197:443?path=%3Fed%3D2048&security=tls&encryption=none&host=Hagh.PaGes.DEv&type=ws&sni=Hagh.PaGes.DEv#config+3
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@162.159.135.79:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#config+4
+vless://d672ec4f-afba-4f61-af09-eec872f97e99@162.159.135.79:443?path=Path%2FTelegram+FreakConfig+%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=test38.pages.dev&fp=chrome&type=ws&sni=test38.pages.dev#config+5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#config+6
 vless://5d8569a9-a8cb-4c5e-9ea9-cc40de873a35@104.31.16.65:443?path=TELEGRAM....PROXY_MTM%3Fed%3D2048&security=tls&encryption=none&host=FIltEr-1tg.pagEs.DeV&type=ws&sni=filTer-1tg.pAges.DeV#config+7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTFZWRnh4SEpTQk1kR2Rs@series-a2-me.samanehha.co:443#config+8
 vless://d3a12e79-ef42-4268-b367-42eeb3494e60@visa.com:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=Hagh.PaGes.DEv&type=ws&sni=Hagh.PaGes.DEv#config+9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQSTF4bVZ0Tlk4WU1QYjg2bmF6RHZJ@83.217.9.216:33202#config+10
+vless://87e9bacf-df09-4bae-8d76-efe5639d1df5@63.141.128.17:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=firefox&type=grpc&serviceName=438cb427&sni=classify11.appclouddeveloper.com#config+10
